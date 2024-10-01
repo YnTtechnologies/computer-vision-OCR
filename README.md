@@ -51,6 +51,6 @@ To run this application, you need to have the following installed on your machin
 
 ## Usage
 
-1.Upload an Image: On the homepage, click the "Upload & Extract Text" button to select an image (JPEG, PNG, etc.) from your file system.
-2.Extract Text: After the image is uploaded, the text will be extracted and displayed in the textarea below.
-3.Download the Extracted Text: Click the "Download as .txt" button to download the extracted text as a .txt file.
+1. Upload an Image: On the homepage, click the "Upload & Extract Text" button to select an image (JPEG, PNG, etc.) from your file system.
+2. Extract Text: After the image is uploaded, the text will be extracted and displayed in the textarea below.
+3. Download the Extracted Text: Click the "Download as .txt" button to download the extracted text as a .txt file.
